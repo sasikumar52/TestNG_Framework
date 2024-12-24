@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-27T06:11:41Z" name="Default suite" finished-at="2024-10-27T06:11:47Z" duration-ms="5803">
+    <groups>
+    </groups>
+    <test started-at="2024-10-27T06:11:41Z" name="Default test" finished-at="2024-10-27T06:11:47Z" duration-ms="5803">
+      <class name="org.test.Dataprovider.Sample">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.test.Dataprovider.Sample@1fc32e4f]" started-at="2024-10-27T06:11:41Z" name="beforeClass" finished-at="2024-10-27T06:11:45Z" duration-ms="4084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:org.test.Dataprovider.Sample@1fc32e4f]" started-at="2024-10-27T06:11:45Z" name="login" data-provider="userData" finished-at="2024-10-27T06:11:46Z" duration-ms="424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sasi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sasi@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:org.test.Dataprovider.Sample@1fc32e4f]" started-at="2024-10-27T06:11:46Z" name="login" data-provider="userData" finished-at="2024-10-27T06:11:46Z" duration-ms="288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arima@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arima@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:org.test.Dataprovider.Sample@1fc32e4f]" started-at="2024-10-27T06:11:46Z" name="login" data-provider="userData" finished-at="2024-10-27T06:11:46Z" duration-ms="422" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Saravanan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saro@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:org.test.Dataprovider.Sample@1fc32e4f]" started-at="2024-10-27T06:11:46Z" name="login" data-provider="userData" finished-at="2024-10-27T06:11:47Z" duration-ms="407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raja@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raja@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterClasss()[pri:0, instance:org.test.Dataprovider.Sample@1fc32e4f]" started-at="2024-10-27T06:11:47Z" name="afterClasss" finished-at="2024-10-27T06:11:47Z" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClasss -->
+      </class> <!-- org.test.Dataprovider.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
